@@ -1,0 +1,13 @@
+Nos resistores existem alguma diferenças na forma como é representado no esquemático, mas é apenas uma questãode design, nada que afete o funcionamento.
+
+CL21B10SKBFNNE(Cap 0806) não estava com 10 mils acima e abaixo dos pads de distância.
+
+No U15-MC34064 rotacionei o footprint e modelo 3d para uma melhor visualização com o pino 1 no topo esquerdo, além de não reconhecer os pinos apesar de nos parâmetros aparentar 
+estar correto.
+
+O SN74LVC1G66DBVR com o mesmo problema.
+
+O SN74LVC2G7DCU com o mesmo problema.
+
+Infelizmente não consegui resolver ainda tal problema, verei com mais calma depois.
+
